@@ -1,4 +1,4 @@
-######################################################## Zomato Bangalore Restaurants Analysis ##############################################################################
+                                                  ############## Zomato Bangalore Restaurants Analysis ###########
 
 Overview
 This project analyzes Zomato restaurant data from Bangalore to understand dining preferences, ratings, and pricing trends. Using Python, SQL, Hadoop FS, Hive, PySpark, and Google BigQuery, we process and analyze restaurant data to provide insights for restaurateurs and food platforms.
